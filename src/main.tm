@@ -14,15 +14,7 @@
 
   <with|font-shape|italic|personal pages><vspace|3em>
 
-  <I>'m a mathematician, currently the Wallis Professor of mathematics at the
-  University of Oxford and fellow of St.<nbsp>Anne's College. Previously
-  <value|I><nbsp>held positions in Bonn, Paris and Pisa. <value|I><nbsp>work
-  in the field of stochastic analysis. My interests lie at the intersection
-  of analysis, probability and mathematical physics. <value|I><nbsp>like to
-  think about the random functions which appear in many physical theories,
-  including quantum mechanics and quantum field theory. <value|I><nbsp>have a
-  PhD in theoretical physics and at some point <value|I> worked in an
-  experimental laboratory. <value|I><nbsp>run.<vspace|1em>
+  <I>'m a mathematician and current PhD student at Boston University.<vspace|1em>
 
   <hlink|google scholar|http://scholar.google.ca/citations?hl=en&user=D4PR4LYAAAAJ&view_op=list_works&pagesize=100>
   \<cdot\> <hlink|arXiv|http://arxiv.org/a/gubinelli_m_1> \<cdot\>
@@ -73,10 +65,10 @@
       </quotation>
 
       <\quotation>
-        <french|Le mot \Srandom\T vient d'un terme de vénerie français :
-        randon désigne la course erratique du cerf qui zigzague en essayant
-        d'échapper aux chiens. Le mot a aussi donné \Srandonné\T en
-        français.>
+        <french|Le mot \Srandom\T vient d'un terme de vÃ©nerie franÃ§ais :
+        randon dÃ©signe la course erratique du cerf qui zigzague en essayant
+        d'Ã©chapper aux chiens. Le mot a aussi donnÃ© \SrandonnÃ©\T en
+        franÃ§ais.>
       </quotation>
     </with>
   </smaller>
