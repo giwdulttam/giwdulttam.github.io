@@ -14,7 +14,12 @@
 
   <with|font-shape|italic|personal pages><vspace|3em>
 
-  <I>'m a mathematician and current PhD student at Boston University.<vspace|1em>
+  <I>'m a mathematician and current PhD student in probability and statistics
+  at Boston University. My research uses tools from stochastic analysis and
+  Malliavin calculus to study quantitative central limit theorems. In
+  particular, I am interested in interacting particle systems, their
+  fluctuations, and quantitative rates of convergence of these fluctuations
+  to Gaussian limits.<vspace|1em>
 
   <hlink|google scholar|http://scholar.google.ca/citations?hl=en&user=D4PR4LYAAAAJ&view_op=list_works&pagesize=100>
   \<cdot\> <hlink|arXiv|http://arxiv.org/a/gubinelli_m_1> \<cdot\>

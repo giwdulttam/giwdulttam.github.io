@@ -30,6 +30,11 @@
   formalisms, non-commutative probability and non-commutative geometry. I've
   also some side interests in formalisation of mathematics.
 
+  I am also interested in interacting particle systems and the random
+  fluctuation fields that arise from many-particle dynamics. A particular
+  focus is on quantitative central limit theorems that give explicit rates of
+  convergence of these fluctuations to Gaussian limits.
+
   <subsection*|Selected publications>
 
   <\itemize>
